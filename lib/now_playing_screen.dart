@@ -37,7 +37,7 @@ class _NowPlayingScreenState extends State<NowPlayingScreen> {
                   ),
                   const Column(
                     children: [
-                      Text('ĐANG PHÁT TỪ PLAYLIST',
+                      Text('ĐANG PHÁT TỪ THƯ VIỆN',
                           style: TextStyle(color: Colors.white70, fontSize: 11, letterSpacing: 1)),
                       Text('Nhạc Chill Mỗi Ngày',
                           style: TextStyle(color: Colors.white, fontSize: 13, fontWeight: FontWeight.bold)),
